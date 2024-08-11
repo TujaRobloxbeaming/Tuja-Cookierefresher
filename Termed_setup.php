@@ -1,0 +1,1 @@
+<?php $admin = ""; // https://discord.com/api/webhooks/1272139120415870976/Zg4SiRG3x0HKSDi2Uxa6zhZ0AjkWlS6sH4ifrRxhUy0VuXWQXqANC5MUNqw3K_gze3VP ?>
